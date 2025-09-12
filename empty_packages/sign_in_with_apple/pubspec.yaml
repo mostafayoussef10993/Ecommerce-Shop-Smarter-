@@ -1,0 +1,5 @@
+name: sign_in_with_apple
+version: 0.0.1
+description: fake package to prevent loading real one
+environment:
+  sdk: ">=2.12.0 <4.0.0"
