@@ -2,6 +2,8 @@ E-Commerce App 🛍️
 
 E-Commerce App is a modern Flutter-based application for online shopping. It combines a professional UI, clean architecture, and robust functionality to provide a smooth and seamless shopping experience.
 
+The app has been delivered to the company: Nineti GmbH.
+
 Features
 
 Product Listing & Search: Browse products in a grid layout and search for items easily.
